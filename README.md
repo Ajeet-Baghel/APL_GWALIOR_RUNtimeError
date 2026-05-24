@@ -1,19 +1,5 @@
 # CricAgent AI
 
-<div align="center">
-
-### Captain Command Center for AI-Powered Cricket Decisions
-
-**Live conditions. Tactical reasoning. Match-day insights.**
-
-[![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)](https://react.dev/)
-[![Vite](https://img.shields.io/badge/Vite-6-646CFF?logo=vite&logoColor=white)](https://vite.dev/)
-[![Node.js](https://img.shields.io/badge/Node.js-Express-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-Connected-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Gemini](https://img.shields.io/badge/Google-Gemini_AI-4285F4?logo=google&logoColor=white)](https://ai.google.dev/)
-
-</div>
-
 ## Overview
 
 CricAgent AI is a cricket strategy dashboard that combines a polished command-center interface with live data integrations and generative AI advice. Configure a match scenario, pull current weather and cricket feed data, ask the Captain Agent for tactical guidance, or explore simulated match outcomes and fantasy-team recommendations.
