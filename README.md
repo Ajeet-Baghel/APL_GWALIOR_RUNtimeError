@@ -52,8 +52,6 @@ Express API (localhost:5001)
  MongoDB    Gemini     Weather / Cricket providers
 ```
 
-The frontend defaults to `http://localhost:5001/api`. For a deployed backend, set `VITE_API_BASE_URL` before building the frontend.
-
 ## Getting Started
 
 ### Prerequisites
