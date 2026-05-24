@@ -111,7 +111,7 @@ CRICKET_API_URL=https://rapidapi.com/?utm_source=chatgpt.com
 For WeatherAPI.com, use:
 
 ```env
-WEATHER_API_URL=https://api.weatherapi.com/v1/current.json
+https://openweathermap.org/api?utm_source=chatgpt.com
 ```
 
 RapidAPI-hosted Cricbuzz endpoints are also supported: set `CRICKET_API_URL` to the desired `*.p.rapidapi.com` endpoint and the server will send the required RapidAPI headers.
