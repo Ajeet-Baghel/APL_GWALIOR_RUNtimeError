@@ -102,10 +102,10 @@ GEMINI_API_KEY=your_gemini_api_key
 GEMINI_MODEL=gemini-2.5-flash
 
 WEATHER_API_KEY=your_weather_api_key
-WEATHER_API_URL=https://api.openweathermap.org/data/2.5/weather
+WEATHER_API_URL=https://openweathermap.org/api?utm_source=chatgpt.com
 
 CRICKET_API_KEY=your_cricket_api_key
-CRICKET_API_URL=https://api.cricapi.com/v1/currentMatches
+CRICKET_API_URL=https://rapidapi.com/?utm_source=chatgpt.com
 ```
 
 For WeatherAPI.com, use:
