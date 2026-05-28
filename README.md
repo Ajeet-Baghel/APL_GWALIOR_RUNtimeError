@@ -116,7 +116,7 @@ npm run dev
 ```
 
 Open:
-
+- Deployed Link: https://apl-gwalior-ru-ntime-error.vercel.app/
 - Frontend: [http://localhost:5173](http://localhost:5173)
 - API health: [http://localhost:5001/api/health](http://localhost:5001/api/health)
 
